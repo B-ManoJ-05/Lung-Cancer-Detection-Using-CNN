@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]  
+# 👋 Hi there, I'm [BOYA MANOJ]  
 
 ### 🧠 About Me
 I'm a passionate **Machine Learning** and **Deep Learning** enthusiast with a focus on **medical image analysis**.  
@@ -49,9 +49,9 @@ This approach enables **early and accurate detection** of lung cancer — a cruc
 ---
 
 ### 📫 Connect With Me
-- GitHub: [Your GitHub Profile Link]  
-- LinkedIn: [Your LinkedIn Profile Link]  
-- Email: [Your Email Address]  
+- GitHub: [https://github.com/B-ManoJ-05]  
+- LinkedIn: [https://www.linkedin.com/in/boya-manoj-a6050a311]  
+- Email: [manojmanu64190@gmail.com]  
 
 ---
 
